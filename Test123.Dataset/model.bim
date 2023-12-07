@@ -527,8 +527,8 @@
                 "value": "{\"isGeneralNumber\":true}"
               }
             ],
-            "expression": "MAX(financials[ Sales])",
-            "lineageTag": "ffcadada-ab65-4662-a50b-652752ad0a87"
+            "expression": "SUM(financials[ Sales])",
+            "lineageTag": "a4000807-33d4-4eb2-9671-abda13a1bf10"
           }
         ],
         "partitions": [
