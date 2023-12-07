@@ -25,6 +25,27 @@
       "filters": "[]",
       "height": 720.00,
       "name": "ReportSection",
+      "visualContainers": [
+        {
+          "config": "{\"name\":\"0af24ce26f6c390b43dd\",\"layouts\":[{\"id\":0,\"position\":{\"x\":9.719058466211086,\"y\":0,\"z\":0,\"width\":837.7828397873957,\"height\":329.47608200455585,\"tabOrder\":0}}],\"singleVisual\":{\"visualType\":\"card\",\"projections\":{\"Values\":[{\"queryRef\":\"financials.Total Sales\"}]},\"prototypeQuery\":{\"Version\":2,\"From\":[{\"Name\":\"f\",\"Entity\":\"financials\",\"Type\":0}],\"Select\":[{\"Measure\":{\"Expression\":{\"SourceRef\":{\"Source\":\"f\"}},\"Property\":\"Total Sales\"},\"Name\":\"financials.Total Sales\",\"NativeReferenceName\":\"Total Sales\"}],\"OrderBy\":[{\"Direction\":2,\"Expression\":{\"Measure\":{\"Expression\":{\"SourceRef\":{\"Source\":\"f\"}},\"Property\":\"Total Sales\"}}}]},\"drillFilterOtherVisuals\":true,\"hasDefaultSort\":true}}",
+          "filters": "[]",
+          "height": 329.48,
+          "width": 837.78,
+          "x": 9.72,
+          "y": 0.00,
+          "z": 0.00
+        }
+      ],
+      "width": 1280.00
+    },
+    {
+      "config": "{}",
+      "displayName": "Page 2",
+      "displayOption": 1,
+      "filters": "[]",
+      "height": 720.00,
+      "name": "ReportSectionef8f7831ac335f81f097",
+      "ordinal": 1,
       "visualContainers": [],
       "width": 1280.00
     }
